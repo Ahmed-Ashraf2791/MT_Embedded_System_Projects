@@ -5,8 +5,8 @@ ENG/ Mohamed Tarek Embedded Systems Diploma Projects
 1. Mini Project 1 : A Simple Vehicle's Monitor Control System
 
 2. Mini Project 2 : Stop-Watch
-   -Developing a system that control the stop-watch time and display it on 7-segments.
-   -Drivers: GPIO, Timer External Interrupts and 7-segment, Microcontroller: ATmega32.
+   - Developing a system that control the stop-watch time and display it on 7-segments.
+   - Drivers: GPIO, Timer External Interrupts and 7-segment, Microcontroller: ATmega32.
 
 3. Mini Project 3 : Fan Speed Controller with temperature:
    -Developing a system that controlsthe speed of a fan depending on the temperature.
