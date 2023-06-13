@@ -12,7 +12,7 @@ ENG/ Mohamed Tarek Embedded Systems Diploma Projects
    Developing a system that controlsthe speed of a fan depending on the temperature.
    Drivers: GPIO, ADC, PWM, LM35 Sensor, LCD and DC-Motor, Microcontroller: ATmega32.
 
-4.Mini Project 4 : Distance Measuring System:
+ 4.Mini Project 4 : Distance Measuring System:
   Developing a system that measuresthe distance and display it on LCD.
   Drivers: GPIO, ICU, Ultrasonic sensor and LCD, Microcontroller: ATmega32.
 
